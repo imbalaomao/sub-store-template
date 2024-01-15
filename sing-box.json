@@ -206,6 +206,11 @@
       "default": "proxy"
     },
     {
+      "tag": "all",
+      "type": "selector",
+      "outbounds": []
+    },
+    {
       "tag": "all-auto",
       "type": "urltest",
       "outbounds": [],
