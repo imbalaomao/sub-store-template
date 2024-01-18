@@ -200,6 +200,7 @@
       "tag": "final",
       "type": "selector",
       "outbounds": [
+        "proxy",
         "all",
         "all-auto"
       ],
